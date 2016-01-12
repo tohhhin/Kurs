@@ -7,7 +7,7 @@
 #include <vector>
 #include <set>
 
-using namespace std;
+using namespace std1;
 
 
 int getGlobalIndexOfLocalBasisFunction_(int indexOfFiniteElement, int indexOfLocalBasisFunction)
